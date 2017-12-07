@@ -1,0 +1,13 @@
+.conteudo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+form label{
+  display: block;
+}
+
+button {
+  width: 30%;
+}
