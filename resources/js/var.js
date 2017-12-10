@@ -11,4 +11,16 @@ var dados = [
     valor: 54,
     link: 'http://www.globo.com',
   },
+  {
+    valor: 72,
+    link: 'http://www.globo.com',
+  },
+  {
+    valor: 90,
+    link: 'http://www.globo.com',
+  },
+  {
+    valor: 108,
+    link: 'http://www.globo.com',
+  },
 ];

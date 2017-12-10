@@ -1,13 +1,18 @@
-.conteudo {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
 
-form label{
+form label {
   display: block;
 }
 
 button {
   width: 30%;
+}
+
+
+
+label {
+  font-size: 24px;
+}
+
+.row {
+  max-height: 100%
 }
