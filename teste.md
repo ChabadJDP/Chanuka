@@ -5,4 +5,4 @@
 2. oioi
 
 
-![https://chabadjdp.github.io/Chanuka/resources/img/flyer.jpeg]()
+![](https://chabadjdp.github.io/Chanuka/resources/img/flyer.jpeg)
